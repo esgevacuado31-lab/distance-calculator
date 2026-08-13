@@ -15,3 +15,8 @@ d = math.sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2))
 
 #Display the result
 print("The distance between the two points is:", d)
+
+"""
+the math library helped me simplify my program by creating shorter equations for long and complex problems. 
+The functions that were easier to use beacuase of the library  were the sqrt and pow since they simplified
+the actual process or eqation of square roots and exponents. 
