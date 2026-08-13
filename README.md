@@ -1,6 +1,7 @@
-# Distance between two points calculator
 
-# #Description
+""" # Distance between two points calculator
+
+## Description
 This program calculates the distance between two points (x1, y1) and (x2, y2) on a 2D plane using input variables and math library
 
 ## How to Run
@@ -30,4 +31,4 @@ The distance between the two points is: 7.07
 
 Name: Ellena Sophia G. Evacuado
 
-Section: 8-Mahogany
+Section: 8-Mahogany """
