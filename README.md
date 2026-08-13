@@ -31,4 +31,4 @@ The distance between the two points is: 7.07
 
 Name: Ellena Sophia G. Evacuado
 
-Section: 8-Mahogany 
+Section: 8-Mahogany   
